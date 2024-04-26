@@ -1,0 +1,14 @@
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/bin/Debug/net8.0/CollegeManagementSystem
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/bin/Debug/net8.0/CollegeManagementSystem.deps.json
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/bin/Debug/net8.0/CollegeManagementSystem.runtimeconfig.json
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/bin/Debug/net8.0/CollegeManagementSystem.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/bin/Debug/net8.0/CollegeManagementSystem.pdb
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.AssemblyInfoInputs.cache
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.AssemblyInfo.cs
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.csproj.CoreCompileInputs.cache
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/refint/CollegeManagementSystem.dll
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.pdb
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/CollegeManagementSystem.genruntimeconfig.cache
+/Users/claire/Desktop/GBC/2024_winter/comp1202/assignments/assign_2/CollegeManagementSystem/obj/Debug/net8.0/ref/CollegeManagementSystem.dll
