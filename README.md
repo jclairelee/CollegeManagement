@@ -3,6 +3,10 @@
 **System Overview:**  
 This College Management System facilitates the management of students, professors, and courses within a college or educational institution. It provides functionalities for adding, viewing, and managing students and professors, as well as enrolling students in courses.
 
+This project was undertaken as coursework during the second semester at GBC. Students were given the choice to work individually or in groups. Opting to work independently, I focused on deepening my understanding of multidimensional arrays. In group 123, I worked solo, completing the assignment independently.
+
+![College Management Screenshot](./Screenshot.png)
+
 **Approach:**
 
 - **User Interface:** Implemented a user-friendly menu-driven interface to guide users through various operations.
